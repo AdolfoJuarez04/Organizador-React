@@ -1,0 +1,29 @@
+.miorg-contenido{
+    margin-top: 5rem;
+    width: 100%;
+    height: 10em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+
+}
+.miorg-titulo{
+    position: absolute;
+    left: 30%;
+    font-family: 'Prata';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    color: #6278F7;
+    padding-bottom: 1rem;
+    border-bottom: 4px solid #6278F7
+}
+
+.miorg-contenido img{
+    width: 6rem;
+    height: 6rem;
+    position: absolute;
+    right: 25%;
+    cursor: pointer;
+}

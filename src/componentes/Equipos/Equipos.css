@@ -1,0 +1,29 @@
+.crear__equipos {
+    width: 100%;
+    text-align: center;
+    position: relative;
+}
+.color{
+    position: absolute;
+    top: 20px;
+    right: 20px;
+}
+
+.crear__equipos h3{
+    font-family: 'Prata';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 43px;
+    padding: 1rem;
+    border-bottom: 4px solid ;
+    display: inline-block;
+    /* color: gray; */
+}
+
+.crear__equipos--colaborador{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    
+}
